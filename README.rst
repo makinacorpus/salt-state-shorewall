@@ -14,7 +14,7 @@ referenced as salt://shorewall/.
 ::
 
     cd file_roots/
-    git clone https://github.com/AntoineCezar/salt-state-shorewall.git shorewall
+    git clone https://github.com/makinacorpus/salt-state-shorewall.git shorewall
 
 Now you can use shorewall in your file_roots/top.sls
 
